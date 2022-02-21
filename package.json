@@ -1,0 +1,16 @@
+{
+  "name": "notesapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Nikhil Naidu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node": "^17.4.0",
+    "nodemon": "^2.0.15"
+  }
+}

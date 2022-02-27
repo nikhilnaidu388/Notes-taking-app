@@ -26,5 +26,5 @@
       category: "Learning",
     },
   ];
-  module.exports = Notes
-  // export default notes;
+  module.exports=Notes;
+  // export default Notes;
